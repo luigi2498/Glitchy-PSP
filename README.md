@@ -11,10 +11,10 @@ Also there are some items that aren't worked as intended.
 (Please finish correctly the tutorial to learn all about the game's mechanics).
 
 # Controls.
-D-Pad: movement.
-X button: jump (confirm action).
-Circle button: activates glitch mode (back action).
-Triangle button: activates debug mode.
+* D-Pad: movement.
+* X button: jump (confirm action).
+* Circle button: activates glitch mode (back action).
+* Triangle button: activates debug mode.
 
 # Credits.
 
