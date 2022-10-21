@@ -20,3 +20,11 @@ Also there are some items that aren't worked as intended.
 
 
 # Screenshots.
+![ss1](https://user-images.githubusercontent.com/62407022/197243192-485c8b52-61ec-4921-8a1e-5ddaa1473967.png)
+![ss2](https://user-images.githubusercontent.com/62407022/197243205-3ec5bfa5-adaf-495f-bbdf-045cb5aabfe2.png)
+![ss3](https://user-images.githubusercontent.com/62407022/197243207-adef8887-ef11-47b1-8e17-8aa78fc49548.png)
+![ss4](https://user-images.githubusercontent.com/62407022/197243210-18825a2e-fa6f-4dec-99b7-5cac2d1081cc.png)
+![ss5](https://user-images.githubusercontent.com/62407022/197243217-433d4d15-57ed-4364-8c4e-450c7233d574.png)
+![ss6](https://user-images.githubusercontent.com/62407022/197243221-59f4ab81-5ccb-45db-912c-1f1a2d3c5ec4.png)
+![ss7](https://user-images.githubusercontent.com/62407022/197243222-30acd732-75b1-4935-9f17-03cfccbf2b04.png)
+![ss8](https://user-images.githubusercontent.com/62407022/197243224-5c58effb-655a-4b42-a49c-4fe5ce98c84e.png)
