@@ -17,3 +17,6 @@ Circle button: activates glitch mode (back action).
 Triangle button: activates debug mode.
 
 # Credits.
+
+
+# Screenshots.
