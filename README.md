@@ -26,13 +26,13 @@ Also there are some items that aren't worked as intended.
 **Story scenes:**
 - SnorlaxPlay.
 
-**Characters sprites:**
+**Character sprites:**
 - Main character: GrafxKid.
 - Robby: GrafxKid.
 - Magician: Disthron.
 - Skeleton: Disthron.
 
-**Objects sprites:**
+**Object sprites:**
 - Blocks and coin: GrafxKid.
 - Potions and consumables: ArlanTR.
 - Checkpoint: texman1234.
