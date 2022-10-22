@@ -18,7 +18,47 @@ Also there are some items that aren't worked as intended.
 * Triangle button: activates debug mode.
 
 # Credits.
+**Menu assets:**
+- Free controller and key prompts: Xelu.
+- Arcade GUI tutorial: Chasersgaming.
+- Emojis: ArlanTR.
 
+**Story scenes:**
+- SnorlaxPlay.
+
+**Characters sprites:**
+- Main character: GrafxKid.
+- Robby: GrafxKid.
+- Magician: Disthron.
+- Skeleton: Disthron.
+
+**Objects sprites:**
+- Blocks and coin: GrafxKid.
+- Potions and consumables: ArlanTR.
+- Checkpoint: texman1234.
+- Computer components: Pong Man & DarkPumpkin.
+
+**Textures:**
+- Default tiles: GrafxKid.
+-Season collection: GrafxKid.
+ -Arcade platformer assets: GrafxKid.
+- Sunset: theidiotmachine.
+- Space: Cliipso.
+- Pixel great stars: William Thompsonj.
+- Space grid: Ivan Voirol.
+- Health Bar: MortalPhoenix.
+- Heart: Dansevenstar.
+
+**Background music and sound effects:**
+- UI (menu) sounds: David McKee (ViRiX).
+- Error Management: Richy Mackro (Kira).
+- Trial and error: Yubatake.
+- Rafuse To Give Up, Chelsea (NES): Christovix.
+- Random Battle: Scott Elliott - Scrabbit.
+- Story time: Augmentality - HaelDB.
+- Jump to win: Neocrey.
+- Coin: Aeva.
+- Pick an item: Fupi.
 
 # Screenshots.
 ![ss1](https://user-images.githubusercontent.com/62407022/197243192-485c8b52-61ec-4921-8a1e-5ddaa1473967.png)
