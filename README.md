@@ -1,6 +1,9 @@
 # Glitchy-PSP.
 This is a basic 2D platformer game made for the RE:Start! 2022 PSP Game Jam according to the theme "It's not a glitch, it's a feature!" and developed within 2 weeks (talking about the first public version).
 
+# 2022 PSP Game Jam Winner (RE:Start!).
+I'm really glad about mention that this little project have this cool achievement, you can check it out right here:<br>https://itch.io/jam/psp-2022-game-jam/results
+
 # Description.
 In this game the player needs to help a little guy called "Glitchy", who is stuck in an old unfinished project, to know who is it, why is in that project and how to get out of there. The story begins when the player founds the project in its computer, cause it got an early version a couple of years ago, but the player didn't remember even when was installed. Then Glitchy notice that its project were executed and tell its story to the player...
 
