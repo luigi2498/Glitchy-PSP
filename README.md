@@ -1,4 +1,4 @@
-# Glitchy-PSP.
+# Glitchy PSP.
 This is a basic 2D platformer game made for the RE:Start! 2022 PSP Game Jam according to the theme "It's not a glitch, it's a feature!" and developed within 2 weeks (talking about the first public version).
 
 # 2022 PSP Game Jam Winner (RE:Start!).
